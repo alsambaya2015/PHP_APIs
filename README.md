@@ -22,4 +22,4 @@ There are three folders as follows:
  The table will have 6 fields:   id, name, description, author, country and date_created.
  
  
- 
+ You can test these using POSTMAN. 
